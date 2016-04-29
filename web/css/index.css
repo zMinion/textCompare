@@ -6,7 +6,6 @@
 	width: 40%;
 	height: 300px;
 }
-
 #btn_submit {
   width: 60px;
   cursor: pointer;
@@ -29,7 +28,6 @@
   text-decoration: none;
   margin:0 auto;
 }
-
 #btn_submit:hover {
   background: #3cb0fd;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
@@ -86,7 +84,6 @@
 	height: 300px;
 	float: left;
 }
-
 #result_code{
 	width: 40%;
 	height: 200px;
