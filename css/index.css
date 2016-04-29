@@ -1,0 +1,38 @@
+#editor{
+	width: 40%;
+	height: 200px;
+}
+#old_text{
+	width: 40%;
+	height: 200px;
+}
+#btn_submit{
+	width: 60px;
+	cursor: pointer;
+	height: 25px;
+	background-color: rgb(123,208,245);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 5px;
+}
+#show{
+	width: 40%;
+	height: 200px;
+	float: left;
+}
+
+#result_code{
+	width: 40%;
+	height: 200px;
+}
+
+.sub{
+	/*background: rgb(255,236,236);*/
+	background: red;
+}
+.add{
+	background: green;
+	/*background: rgb(234,255,234);*/
+}

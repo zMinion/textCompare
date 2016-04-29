@@ -1,0 +1,5 @@
+
+var globalVar = {
+	UE:{},
+	dom:{}
+}
